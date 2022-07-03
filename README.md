@@ -1,4 +1,4 @@
-![Hello World](./hello.gif){:height="36px" width="36px"}.
+![Hello World](./hello.gif){width=350}
 
 ## Hi there. I'm Recep...
 - :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
