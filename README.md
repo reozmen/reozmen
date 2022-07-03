@@ -1,4 +1,4 @@
-![Hello World](./hello.gif =100x20)
+![Hello World](./hello.gif =*350)
 
 ## Hi there. I'm Recep...
 - :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
