@@ -1,5 +1,4 @@
-![Hello World](./hello.gif)
-<img src="./hello.gif" width="400" height="200" />
+<img src="./hello.gif" width="600" height="300" />
 
 ## Hi there. I'm Recep...
 - :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
