@@ -1,4 +1,4 @@
-## Hi there. I'm Recep...<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there. I'm Recep...<img src="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0" width="25px">
 - :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 
 
