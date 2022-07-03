@@ -1,5 +1,5 @@
 ## Hi there. I'm Recep...<img src="https://giphy.com/gifs/animation-cool-hello-xUPGGDNsLvqsBOhuU0" width="25px">
-- :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
+- :house: I am a Front-end Developer <img src="https://media.giphy.com/media/EK24OWrJSy1GkkNu0y/giphy.gif" width="30"> from Turkey.
 
 
 ## :man::woman: Social
