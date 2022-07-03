@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/2000s-00s-middle-school-MeJgB3yMMwIaHmKD4z/giphy.gif" width="25px">
+![Hello World](./giphy.gif)
 
 ## Hi there. I'm Recep...
 - :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
