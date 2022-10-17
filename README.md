@@ -1,8 +1,9 @@
 <img src="./hello.gif" width="1000" height="300" />
 
 ## Hi there. I'm Recep...
+
+- :house: I attended Bootcamp Acceleration Program- 2022 at Kodluyoruz.
 - :house: I am a Front-end Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :house: I attended Bootcamp Acceleration Program- 2022 at Kodluyoruz
 
 
 ## :man::woman: Social
